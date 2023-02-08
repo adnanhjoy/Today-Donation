@@ -1,0 +1,207 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#header {
+    margin: 0;
+
+
+}
+
+.header-img {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.header-img h1 {
+    padding: 15% 25% 0;
+    margin-top: 0;
+    color: white;
+}
+
+.header-img p {
+    text-align: center;
+    color: white;
+}
+
+
+
+
+#header h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+
+}
+
+.button {
+    background-color: #f04242;
+    border: none;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 400;
+    border-radius: 5px;
+    color: #e9e7e7;
+
+}
+
+#donate-today h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+#donate-today p {
+    text-align: center;
+    color: gray;
+}
+
+.span-tk {
+    margin: auto;
+    width: 50%;
+
+}
+
+span {
+    display: inline-block;
+    background-color: #f1eded;
+    padding: 20px;
+    color: gray;
+    font-size: 30px;
+    margin-left: 2px;
+}
+
+#span-color {
+    border: 2px solid #fd4949;
+    background-color: #f7bdb6;
+    color: #fd4949;
+}
+
+.amount {
+    margin: 0 auto;
+    width: 50%;
+    border-bottom: 2px solid gray;
+}
+
+.btn {
+    margin: 2% auto;
+    width: 10%;
+}
+
+#donate-plan {
+    margin-top: 10%;
+}
+
+.family {
+    display: flex;
+    width: 70%;
+    margin: auto;
+    margin-top: 2%;
+}
+
+.our-donate h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.our-donate p {
+    text-align: center;
+    padding-left: 0% 50% 0% 50%;
+    color: gray;
+}
+
+#donate-plan p {
+    color: gray;
+}
+
+#food {
+    background-color: #d9f7ec;
+    padding: 2%;
+    margin-right: 20px;
+}
+
+#shelter {
+    background-color: #fae4e8;
+    padding: 2%;
+    margin-right: 20px;
+
+}
+
+#education {
+    background-color: #e6c4c1;
+    padding: 2%;
+}
+
+#contribute {
+    margin-top: 10%;
+    display: flex;
+    margin-bottom: 10%;
+}
+
+.donation {
+    width: 40%;
+    padding-left: 10%;
+
+
+}
+
+.donation img {
+    width: 75%;
+    margin-right: 25%;
+}
+
+.donation p {
+    font-size: 20px;
+    color: gray;
+}
+
+.donation h1 {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.email-form {
+    display: block;
+    width: 60%;
+    background-color: #e6c4c1;
+    padding: 50px;
+    margin: auto;
+}
+
+.email-form input {
+    padding: 15px 25px;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.email {
+    margin-left: 30%;
+}
+
+footer {
+    background-color: black;
+    margin-top: 10%;
+    margin-bottom: 0;
+
+}
+
+footer h1 {
+    color: tomato;
+    text-align: center;
+    padding-top: 50px;
+    font-family: lobster, cursive;
+
+}
+
+footer p {
+    color: white;
+    font-size: 10px;
+    font-weight: 100;
+    text-align: center;
+    padding-bottom: 50px;
+}
